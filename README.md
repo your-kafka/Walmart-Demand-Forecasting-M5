@@ -137,3 +137,12 @@ Aditya Kariwal
 [GitHub](https://github.com/adityakariwal) • [LinkedIn](https://www.linkedin.com/in/aditya-kariwal-730a04295/)  
 
 ---
+
+## 📝 Note
+
+⚠️ The full dataset is not included in this repository due to size constraints.  
+To run the notebooks, download the data from the official competition page:
+
+👉 [https://www.kaggle.com/competitions/m5-forecasting-accuracy/data](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data)
+
+---
