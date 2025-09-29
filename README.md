@@ -133,8 +133,8 @@ This project is based on the [M5 Forecasting - Accuracy](https://www.kaggle.com/
 
 ## 💼 Author
 
-Aditya Kariwal
-[GitHub](https://github.com/adityakariwal) • [LinkedIn](https://www.linkedin.com/in/aditya-kariwal-730a04295/)  
+Ramkrishna Rathore
+[GitHub](https://github.com/your-kafka) • [LinkedIn](https://www.linkedin.com/in/ramkrishna-rathore-1a843b22a/)  
 
 ---
 
